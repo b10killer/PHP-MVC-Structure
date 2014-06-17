@@ -45,9 +45,6 @@
 
 					<ul class="nav navbar-nav" id="navigation">
 						<li class="active"><a href="<?php echo URL; ?>home/index">Home</a></li>
-						<li><a href="<?php echo URL; ?>about/index">About</a></li>
-						<li><a href="<?php echo URL; ?>portfolio/index">Portfolio</a></li>
-						<li><a href="<?php echo URL; ?>contact/index">Contact</a></li>
 					</ul>
 
 			</div><!--/.nav-collapse -->
